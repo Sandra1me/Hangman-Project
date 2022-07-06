@@ -7,7 +7,12 @@ In this project, I have created the hangman game using Python code. Right now, t
 You can run the program from the main.py file. The modules it imports are saved in checks.py and words.py.
 
 ## Download Code
-You can download the code from this repository: https://github.com/Sandra1me/Hangman-Project
+You can download the code from this repository.
+
+![image](https://user-images.githubusercontent.com/82436702/177549904-59071ff2-bb71-4a42-96b5-a85eea352176.png)
+
+1. Click on Code
+2. Choose Download Zip
 
 ## Usage
 To use the program, initialize it in the terminal, and it will choose a random word from a list for you to guess. Then you can insert different letters. 
