@@ -1,3 +1,4 @@
+import time
 from words import choose_word , check_letter, lists, remove_word
 from checks import printing , initial , continue_playing
 
@@ -30,3 +31,4 @@ while play==True:
     play, fails = continue_playing(play, fails, correct, word_list)
 
 print('\nThanks for playing!\n')
+time.sleep(1)
